@@ -9,7 +9,7 @@ Go Beyond Plus Ultra ![izuku-midoriya-my-hero-academia-uhdpaper com-hd-5 1641 (1
 
 * 🌍  I'm based in Tirunelveli, Tamil Nadu, India
 * ✉️  You can contact me at [aakashfed2002@gmail.com](mailto:aakashfed2002@gmail.com)
-* 🧠  I'm learning Rust, PostgreSQL, Nest.js and Docker
+* 🧠  I'm learning Go lang, PostgreSQL, Nest.js and Docker
 * 🤝  I'm open to collaborating on Projects
 * ⚡  On the ride to Forever Land
 
