@@ -8,7 +8,7 @@ A first-year M.sc. CS student on a journey akin to Fullstack Alchemist, transmut
 Go Beyond Plus Ultra ![izuku-midoriya-my-hero-academia-uhdpaper com-hd-5 1641 (1)-2](https://github.com/Aakash-Sleur/Aakash-Sleur/assets/112175038/c6e1daba-0640-4fda-a693-400c5f40ca0b)
 
 * 🌍  I'm based in Tirunelveli, Tamil Nadu, India
-* ✉️  You can contact me at [aakashfed2002@gmail.com](mailto:aakashfed2002@gmail.com)
+* ✉️  You can contact me at [dsaakash463@gmail.com](mailto:dsaakash463@gmail.com)
 * 🧠  I'm learning Go lang, PostgreSQL, Nest.js and Docker
 * 🤝  I'm open to collaborating on Projects
 * ⚡  On the ride to Forever Land
