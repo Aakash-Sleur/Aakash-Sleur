@@ -9,7 +9,7 @@ Go Beyond Plus Ultra ![izuku-midoriya-my-hero-academia-uhdpaper com-hd-5 1641 (1
 
 * 🌍  I'm based in Tirunelveli, Tamil Nadu, India
 * ✉️  You can contact me at [dsaakash463@gmail.com](mailto:dsaakash463@gmail.com)
-* 🧠  I'm learning Elixir, PostgreSQL, Laravel and Docker
+* 🧠  I'm learning Elixir, PostgreSQL, AWS and Docker
 * 🤝  I'm open to collaborating on Projects
 * ⚡  On the ride to Forever Land
 
