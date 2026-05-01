@@ -3,9 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full-stack Developer
 --------------------
+I build scalable web applications and backend systems with a focus on async processing, real-time systems, and clean architecture.
 
-A Tech Enthusiast on a journey akin to Developement Alchemist, transmuting code and algorithms with the precision of an alchemical master. Each programming language I learn is a potent alchemical formula, and debugging is the art of unraveling intricate transmutation circles. As I navigate this coding alchemy, setbacks become transformative moments, competitions become arenas for alchemical innovation, and my goal is to shape a digital world through the alchemy of code. 🌐💻 #CodeAlchemist #CSExplorer <br /> 
-Go Beyond Plus Ultra ![izuku-midoriya-my-hero-academia-uhdpaper com-hd-5 1641 (1)-2](https://github.com/Aakash-Sleur/Aakash-Sleur/assets/112175038/c6e1daba-0640-4fda-a693-400c5f40ca0b)
+Experience includes designing CAD processing pipelines, queue-based systems (Temporal, BullMQ), and full-stack applications with React and Next.js.
+
+Strong in API design, data modeling, and end-to-end system ownership — from database schema to production UI.
 
 * 🌍  I'm based in Tirunelveli, Tamil Nadu, India
 * ✉️  You can contact me at [dsaakash463@gmail.com](mailto:dsaakash463@gmail.com)
